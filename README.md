@@ -9,5 +9,11 @@ Once you adjust the mask, all other images will be masked using the same range v
 
 Because of that, maybe your other images will have some noise. Remember to check every imagem after processing. 
 If it is needed, fine tune the masks using Metashape's selection tool.
+
+**Real time mask editing:**
+![interface](https://user-images.githubusercontent.com/66284195/121759302-71378c80-cafb-11eb-8097-99390b97de51.png)
+
+
+**Masks imported directly on Metashape**
 ![metashape](https://user-images.githubusercontent.com/66284195/121759301-6e3c9c00-cafb-11eb-8d4b-44373dccdfcd.jpg)
-![interface_final](https://user-images.githubusercontent.com/66284195/121759302-71378c80-cafb-11eb-8097-99390b97de51.png)
+
